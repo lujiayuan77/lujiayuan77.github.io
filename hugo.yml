@@ -1,6 +1,6 @@
 baseURL: https://lujiayuan77.github.io/
 languageCode : en-us
-title : yujiayuan
+title : lujiayuan
 theme : PaperMod
 publishDir : docs
 enableEmoji : true
