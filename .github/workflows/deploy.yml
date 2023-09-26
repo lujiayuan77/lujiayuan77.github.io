@@ -40,8 +40,8 @@ jobs:
             - run: npm i pagefind
             - run: npm list
             - name: npm bin
-            - run: npm bin
-            - run: npx node_modules/.bin/pagefind --source "public" --bundle-dir mysearch
+              run: npm bin
+            - run: npx pagefind --source "public" --bundle-dir mysearch
 
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
