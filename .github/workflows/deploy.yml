@@ -27,12 +27,12 @@ jobs:
             - name: Build Web
               run: hugo
 
-            - name: Setup Node
-              uses: actions/setup-node@v3
-              with:
-                  node-version: 18
-            - run: npm install pagefind
-            - run: npm_config_yes=true npx pagefind --source "public" --bundle-dir mysearch
+            # - name: Setup Node
+            #   uses: actions/setup-node@v3
+            #   with:
+            #       node-version: 18
+            # - run: npm install pagefind
+            # - run: npm_config_yes=true npx pagefind --source "public" --bundle-dir mysearch
 
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
