@@ -39,6 +39,8 @@ jobs:
                   node-version: 18
             - run: npm i pagefind
             - run: npm list
+            - name: Install dependencies
+              run: npm ci
             - run: npm_config_yes=true npx pagefind --source "public" --bundle-dir mysearch
 
             - name: Deploy Web
