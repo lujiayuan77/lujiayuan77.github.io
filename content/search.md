@@ -6,4 +6,4 @@ ShowReadingTime: false
 comments: false
 ---
 
-<!-- {{<search>}} -->
+{{<search>}}
