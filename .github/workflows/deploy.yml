@@ -38,9 +38,6 @@ jobs:
               with:
                   node-version: 18
             - run: npm i pagefind
-            - run: npm list
-            - name: npm bin
-              run: npm bin
             - run: npx pagefind --source "public" --bundle-dir mysearch
 
             - name: Deploy Web
