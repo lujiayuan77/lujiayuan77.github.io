@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lujiayuan77.github.io/posts/demo/</loc>
-    <lastmod>2023-09-22T16:56:38+08:00</lastmod>
-  </url><url>
     <loc>https://lujiayuan77.github.io/</loc>
     <lastmod>2023-09-22T16:56:38+08:00</lastmod>
   </url><url>
     <loc>https://lujiayuan77.github.io/posts/</loc>
-    <lastmod>2023-09-22T16:56:38+08:00</lastmod>
-  </url><url>
-    <loc>https://lujiayuan77.github.io/tags/svt/</loc>
     <lastmod>2023-09-22T16:56:38+08:00</lastmod>
   </url><url>
     <loc>https://lujiayuan77.github.io/tags/</loc>
@@ -26,10 +20,13 @@
     <loc>https://lujiayuan77.github.io/tags/%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86/</loc>
     <lastmod>2023-09-22T16:56:38+08:00</lastmod>
   </url><url>
-    <loc>https://lujiayuan77.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E4%B8%AA%E4%BB%80%E4%B9%88/</loc>
-    <lastmod>2023-09-22T16:56:38+08:00</lastmod>
+    <loc>https://lujiayuan77.github.io/tags/svt/</loc>
+    <lastmod>2022-09-27T16:56:38+08:00</lastmod>
   </url><url>
     <loc>https://lujiayuan77.github.io/posts/test2/bb/</loc>
+    <lastmod>2022-09-27T16:56:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lujiayuan77.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E4%B8%AA%E4%BB%80%E4%B9%88/</loc>
     <lastmod>2022-09-27T16:56:38+08:00</lastmod>
   </url><url>
     <loc>https://lujiayuan77.github.io/posts/test2/test/</loc>
