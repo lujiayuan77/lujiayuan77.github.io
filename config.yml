@@ -3,14 +3,14 @@ languageCode : en-us
 theme : PaperMod
 # publishDir : docs
 enableEmoji : true
-title : lujiayuan 😼
-paginate: 5
+title : lujiayuan 
+paginate: 10
 
 params:
 
   homeInfoParams:
-    Title: Hello 💜
-    Content: welcome to my blog 💜
+    Title: Hello 
+    Content: welcome to my blog 
 menu:
   main:
     - name: 全部
