@@ -4,6 +4,7 @@ title : lujiayuan
 theme : PaperMod
 # publishDir : docs
 enableEmoji : true
+paginate: 5
 
 params:
 
