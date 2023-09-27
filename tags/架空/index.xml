@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on lujiayuan</title>
-    <link>https://lujiayuan77.github.io/posts/</link>
-    <description>Recent content in Posts on lujiayuan</description>
+    <title>架空 on lujiayuan</title>
+    <link>https://lujiayuan77.github.io/tags/%E6%9E%B6%E7%A9%BA/</link>
+    <description>Recent content in 架空 on lujiayuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2023 16:56:38 +0800</lastBuildDate><atom:link href="https://lujiayuan77.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>demo</title>
-      <link>https://lujiayuan77.github.io/posts/demo/</link>
-      <pubDate>Fri, 22 Sep 2023 16:56:38 +0800</pubDate>
-      
-      <guid>https://lujiayuan77.github.io/posts/demo/</guid>
-      <description>阿巴拉阿巴拉</description>
-    </item>
-    
+    <lastBuildDate>Fri, 22 Sep 2023 16:56:38 +0800</lastBuildDate><atom:link href="https://lujiayuan77.github.io/tags/%E6%9E%B6%E7%A9%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>另一颗星球不存在</title>
       <link>https://lujiayuan77.github.io/posts/%E5%8F%A6%E4%B8%80%E9%A2%97%E6%98%9F%E7%90%83%E4%B8%8D%E5%AD%98%E5%9C%A8/</link>
@@ -40,30 +31,6 @@
 “你就是觉得我是老古董。”夫胜宽不高兴。 “我是想说……古老的词典也找不出一个恰当的词语形容我有多爱你。” 在夫胜宽的世界里，原来崔瀚率是唯一的“不确定”。
 没有任何一颗星球是你的，夫胜宽，崔瀚率说，宇宙不属于任何人。
 结尾是双双离职！不想干了，夫胜宽说，崔瀚率，你要跟我一起走吗，去看看那种不属于任何人的星球，自然生长又自然灭亡的星球。</description>
-    </item>
-    
-    <item>
-      <title>文章标题吧阿拉巴🧡</title>
-      <link>https://lujiayuan77.github.io/posts/test2/bb/</link>
-      <pubDate>Tue, 27 Sep 2022 16:56:38 +0800</pubDate>
-      
-      <guid>https://lujiayuan77.github.io/posts/test2/bb/</guid>
-      <description>写标题这么写：
-标题1 标题1 标题1 下面这个样式（在前面写个右尖括号）可以用来写个引言什么的，写完引言要空一行写其他的：
-引言把阿拉巴拉
-首行空两格手动打： 要換行必须在段后面按几个空格 第一段巴拉巴拉巴拉
-第二段把阿拉巴拉乃阿迪尾巴长
-第三段balabal
-标题2 正文巴拉巴拉</description>
-    </item>
-    
-    <item>
-      <title>文章标题test</title>
-      <link>https://lujiayuan77.github.io/posts/test2/test/</link>
-      <pubDate>Thu, 22 Sep 2022 16:56:38 +0800</pubDate>
-      
-      <guid>https://lujiayuan77.github.io/posts/test2/test/</guid>
-      <description>💭</description>
     </item>
     
   </channel>
