@@ -3,6 +3,7 @@ name: deploy
 on:
     push:
     workflow_dispatch:
+    create:
 
 # env:
 #   PAGEFIND_VERSION: 0.12.0
