@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on lujiayuan 💜</title>
+    <title>Posts on lujiayuan</title>
     <link>https://lujiayuan77.github.io/posts/</link>
-    <description>Recent content in Posts on lujiayuan 💜</description>
+    <description>Recent content in Posts on lujiayuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Sep 2023 22:56:38 +0800</lastBuildDate><atom:link href="https://lujiayuan77.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>文1p3</title>
+      <link>https://lujiayuan77.github.io/posts/page1/p3/</link>
+      <pubDate>Mon, 25 Sep 2023 22:56:38 +0800</pubDate>
+      
+      <guid>https://lujiayuan77.github.io/posts/page1/p3/</guid>
+      <description>1 正文测试p3
+2 22</description>
+    </item>
+    
+    <item>
       <title>文1p1</title>
       <link>https://lujiayuan77.github.io/posts/page1/p1/</link>
       <pubDate>Mon, 25 Sep 2023 21:56:38 +0800</pubDate>
@@ -28,12 +38,13 @@
     </item>
     
     <item>
-      <title>文1p3</title>
-      <link>https://lujiayuan77.github.io/posts/page1/p3/</link>
-      <pubDate>Mon, 25 Sep 2023 21:56:38 +0800</pubDate>
+      <title>文3</title>
+      <link>https://lujiayuan77.github.io/posts/page3/p1/</link>
+      <pubDate>Tue, 27 Sep 2022 16:56:38 +0800</pubDate>
       
-      <guid>https://lujiayuan77.github.io/posts/page1/p3/</guid>
-      <description>测试 测试p3</description>
+      <guid>https://lujiayuan77.github.io/posts/page3/p1/</guid>
+      <description>1 正文1明天
+2 正文明天ttahjdiocaeiisy</description>
     </item>
     
     <item>
