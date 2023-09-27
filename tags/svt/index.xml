@@ -22,5 +22,14 @@
 标题2 正文巴拉巴拉</description>
     </item>
     
+    <item>
+      <title>文章标题test</title>
+      <link>https://lujiayuan77.github.io/posts/test2/test/</link>
+      <pubDate>Thu, 22 Sep 2022 16:56:38 +0800</pubDate>
+      
+      <guid>https://lujiayuan77.github.io/posts/test2/test/</guid>
+      <description>💭</description>
+    </item>
+    
   </channel>
 </rss>
