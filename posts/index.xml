@@ -38,6 +38,20 @@
     </item>
     
     <item>
+      <title>文章标题吧阿拉巴🧡</title>
+      <link>https://lujiayuan77.github.io/posts/test2/bb/</link>
+      <pubDate>Tue, 27 Sep 2022 16:56:38 +0800</pubDate>
+      
+      <guid>https://lujiayuan77.github.io/posts/test2/bb/</guid>
+      <description>写标题这么写：
+标题1 标题1 标题1 下面这个样式（在前面写个右尖括号）可以用来写个引言什么的，写完引言要空一行写其他的：
+引言把阿拉巴拉
+首行空两格手动打： 第一段巴拉巴拉巴拉 第二段把阿拉巴拉乃阿迪尾巴长
+第三段balabal
+标题2 正文巴拉巴拉</description>
+    </item>
+    
+    <item>
       <title>🧡</title>
       <link>https://lujiayuan77.github.io/posts/page2/p2/</link>
       <pubDate>Tue, 27 Sep 2022 16:56:38 +0800</pubDate>
@@ -53,17 +67,6 @@
       
       <guid>https://lujiayuan77.github.io/posts/test/</guid>
       <description>💟</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lujiayuan77.github.io/posts/test2/bb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lujiayuan77.github.io/posts/test2/bb/</guid>
-      <description>标题1 GitHub ，全球最大的代码托管平台。即使你不是程序员，你也可能会使用 GitHub 来下载软件、反馈问题、建立个人博客等。
-虽然 GitHub 本身可以直接在网页端进行新建、编辑文件的操作。但是每次只能编辑一个文件，使用体验也说不上太好。虽然有代码高亮、支持多行编辑等功能。但是距离一个好的文本编辑器还有一些距离。比如不支持 vim 模式、不小心关闭窗口后编辑的内容就会丢失。
-标题2 正文明天 后台</description>
     </item>
     
   </channel>
