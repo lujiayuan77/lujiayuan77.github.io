@@ -9,8 +9,8 @@ paginate: 10
 params:
 
   homeInfoParams:
-    Title: Hello 
-    Content: welcome to my blog 
+    Title: 宇宙尽头的餐馆 
+    Content: 欢迎您再来 
 menu:
   main:
     - name: 全部
